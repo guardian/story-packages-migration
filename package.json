@@ -1,0 +1,7 @@
+{
+    "name": "migratePackages",
+    "description": "migrate packages to new app",
+    "depencies": {
+        "bluebird": "3.0.2"
+    }
+}
