@@ -1,7 +1,11 @@
 {
-    "name": "migratePackages",
-    "description": "migrate packages to new app",
-    "depencies": {
-        "bluebird": "3.0.2"
-    }
+  "name": "migratePackages",
+  "description": "migrate packages to new app",
+  "version": "1.0.0",
+  "private": true,
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bluebird": "3.3.3",
+    "mkdirp": "^0.5.1"
+  }
 }
